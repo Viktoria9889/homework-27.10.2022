@@ -1,13 +1,17 @@
-p img{
+
+
+.blok-1 {
 width: 120px;
+height: 100px;
 float: left;
-}
+} 
 
 .test-1 { font-weight: 700;
 	margin: 18px 18px 18px 18px;
 	padding: 18px 18px 18px 18px;
 	line-height: 18px;
 }
+
 .test-2 { font-weight: 400;
 	margin: 40px 5px 40px 5px;
 	padding: 40px 5px 40px 5px;
